@@ -1,7 +1,5 @@
 :root 
 {
-    background-color: white;
-    font-size: 2vh;
     text-align: center;
 }
 
@@ -22,24 +20,4 @@
     body {font-size:1.5rem;}
     h1 {font-size:3rem;}
     h2 {font-size:1.5rem;}
-}
-
-.container
-{
-
-}
-
-.page
-{
-
-}
-
-.question
-{
-    
-}
-
-.choices
-{
-    
 }
